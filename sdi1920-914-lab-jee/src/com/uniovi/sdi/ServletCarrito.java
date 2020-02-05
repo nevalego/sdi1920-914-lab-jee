@@ -1,3 +1,4 @@
+
 package com.uniovi.sdi;
 
 import java.io.IOException;
@@ -73,5 +74,4 @@ public class ServletCarrito extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
-
 }
